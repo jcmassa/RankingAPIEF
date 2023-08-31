@@ -1,1 +1,1 @@
-# RankingAPI
+Entity Framework Backend for RankingAPI
